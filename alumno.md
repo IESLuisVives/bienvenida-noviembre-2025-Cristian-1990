@@ -1,10 +1,10 @@
 # Datos del alumno/a
 
-Nombre: Tu nombre y Dos apellidos
+Nombre: Cristian Alvarez Fernández
 
-Curso: 1DAW o 2DAW
+Curso: 1DAW
 
-Email: tu email de IES Luis Vives o EducaMadrid
+Email: caf242@educa.madrid.org
 
-Nick GitHub: Tu nick de GitHub
+Nick GitHub: Cristian-1990
 
